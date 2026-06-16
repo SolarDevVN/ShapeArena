@@ -3,3 +3,33 @@
  - enemy
  - player 
  - player shoot
+random_choice1 = random.randint(0, 1)
+random_choice2 = random.randint(0, 1)
+if random_choice1 = 0:
+    spawn_x = random.randint(-30, 830)
+    if random_choice2 = 0:
+        spawn_y = -30
+    else:
+        spawn_y = 630
+if random_choice1 = 1
+    spawn_y = random.randint(-30, 630)
+    if random_choice2 = 0:
+        spawn_x = -30
+    else:
+        spawn_x = 830
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
